@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cobhb7i2qdaw9yda?svg=true)](https://ci.appveyor.com/project/davmarat/httpfront)
