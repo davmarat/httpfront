@@ -2,7 +2,7 @@
 /* eslint-disable guard-for-in */
 
 export default function sendRequest(method, url, id = null, body = null) {
-  const reqUrl = 'https://ahj-http.herokuapp.com/';
+  const reqUrl = 'https://httopback.herokuapp.com/';
 
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest();
